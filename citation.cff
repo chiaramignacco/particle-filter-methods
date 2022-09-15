@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Mignacco
+    given-names: Chiara
+title: "Particle Filters Methods"
+version: 2.0.4
+date-released: 15-09-2022
